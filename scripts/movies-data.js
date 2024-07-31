@@ -31,3 +31,7 @@ export const movies = [
     We define an array called movies that contains objects representing movies.
     Each movie object has properties like title, poster, and description.
     We export the movies array using the export keyword to make it available for use in other files.*/
+    /*we created an array of movie objects, each containing properties like title, poster, and description. 
+    These properties provide the necessary information to generate the movie cards in our showcase.
+    Exporting the movies array using the export keyword allows us to import it in other files using the import statement. 
+    This way, we can access the movie data and use it to generate the movie cards dynamically.*/
