@@ -19,6 +19,3 @@ export const renderMoviesToDOM = (movieHTML) => {
      we log an error message to the console using console.error(). This helps in identifying and debugging issues 
      related to missing or incorrect DOM elements.*/
 
-module.exports = {
-    renderMoviesToDOM
-}

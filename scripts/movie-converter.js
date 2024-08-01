@@ -30,9 +30,8 @@ movieHTML += `
     return movieHTML
  };
 
- module.exports = {
-    generateMoviesHTML
- }
+ 
+ 
 /*we created a JavaScript module that converts the movie data into HTML markup. 
 By importing the movie data from the movies-data.js file,
 we can access the movies array and iterate over each movie object.
