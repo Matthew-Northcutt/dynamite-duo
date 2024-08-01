@@ -26,6 +26,9 @@ export const movies = [
         description: "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
     }
  ];
+ module.exports = {
+    movies
+ }
  /*In this code:
 
     We define an array called movies that contains objects representing movies.
